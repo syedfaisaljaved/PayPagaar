@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">पय्पगार्</string>
+    <string name="select_lang">भाषा का चयन करें।</string>
+
+    <string-array name="lang">
+        <item>عربى</item>
+        <item>English</item>
+        <item>हिन्दी</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="settings">समायोजन।</string>
+    <string name="change">भाषा बदलो।</string>
+    <string name="sample_text">दोपहर इतनी बढ़ गई कि छठी इनिंग में आर्क लाइट चालू कर दी गई - दिन में हमेशा एक वान दृष्टि, एक अंतिम संस्कार जुलूस की जलती हुई हेडलाइट की तरह। निराशा से प्रेरित होकर, फिशर सोक्स बदमाशों के माध्यम से कटा हुआ था, और विलियम्स सातवें में बल्लेबाजी करने नहीं आए। वह आठवें में दूसरे स्थान पर था। यह लगभग निश्चित रूप से फेनवे पार्क में प्लेट पर आने का उनका आखिरी समय था, और केवल जयकार करने के बजाय, जैसा कि उनके तीन पिछले प्रदर्शनों में था, हम खड़े थे, हम सभी, और सराहना की।</string>
+</resources>

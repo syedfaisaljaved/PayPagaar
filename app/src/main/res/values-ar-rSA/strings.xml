@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">پايپاعآر</string>
+    <string name="select_lang">اختار اللغة</string>
+
+    <string-array name="lang">
+        <item>عربى</item>
+        <item>English</item>
+        <item>हिन्दी</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="settings">الإعدادات</string>
+    <string name="change">تغيير اللغة</string>
+    <string name="sample_text">نمت فترة ما بعد الظهر بشكل شديد السطوع لدرجة أنه في الشوط السادس تم تشغيل أضواء القوس - دائمًا ما يكون هناك مشهد ضعيف في النهار ، مثل المصابيح الأمامية المحترقة في موكب الجنازة. بمساعدة الكآبة ، كان فيشر يقطع شرائح الناشئين ، ولم يأتي ويليامز إلى الخفافيش في المركز السابع. كان الثاني في المركز الثامن. من المؤكد أن هذه كانت آخر مرة يأتي فيها إلى لوحة في حديقة فينواي ، وبدلاً من مجرد الهتاف ، كما فعلنا في ظهوره الثلاثة السابقة ، وقفنا ، جميعًا ، وصفقنا.</string>
+</resources>
